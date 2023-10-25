@@ -4,7 +4,7 @@
  * checker - should check if number is prime
  * @a: Number to check
  * @b: 2nd Number to check
- * Return :integer
+ * Return: integer
  */
 
 int checker(int a, int b)
